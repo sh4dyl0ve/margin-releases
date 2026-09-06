@@ -1,0 +1,30 @@
+{
+  "name": "Margin Releases",
+  "subtitle": "Private native reading releases for Margin.",
+  "description": "Margin is a private, local-first document reader for PDF, EPUB, DOCX, TXT, and RTF.",
+  "iconURL": "https://raw.githubusercontent.com/sh4dyl0ve/margin-releases/main/Margin-icon-1024.png",
+  "website": "https://github.com/sh4dyl0ve/margin-releases",
+  "tintColor": "#4DA3FF",
+  "apps": [
+    {
+      "name": "Margin",
+      "bundleIdentifier": "com.margin.reader",
+      "developerName": "Margin",
+      "subtitle": "Read. Highlight. Remember.",
+      "localizedDescription": "A private, native document reader for PDF, EPUB, DOCX, TXT and RTF with highlights, notes, bookmarks, search and local-first persistence.",
+      "iconURL": "https://raw.githubusercontent.com/sh4dyl0ve/margin-releases/main/Margin-icon-1024.png",
+      "tintColor": "#4DA3FF",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-09-07",
+          "localizedDescription": "Margin 1.0 - first release candidate with PDF/EPUB/DOCX/TXT/RTF reading, highlights and notes, bookmarks, search, OCR support, and durable local persistence.",
+          "downloadURL": "https://github.com/sh4dyl0ve/margin-releases/releases/download/v1.0-1/Margin-1.0-1.ipa",
+          "size": 6054710,
+          "minOSVersion": "26.0"
+        }
+      ]
+    }
+  ]
+}
