@@ -18,7 +18,7 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-09-07",
+          "date": "2026-09-06",
           "localizedDescription": "Margin 1.0 - first release candidate with PDF/EPUB/DOCX/TXT/RTF reading, highlights and notes, bookmarks, search, OCR support, and durable local persistence.",
           "downloadURL": "https://github.com/sh4dyl0ve/margin-releases/releases/download/v1.0-1/Margin-1.0-1.ipa",
           "size": 6054710,
