@@ -17,6 +17,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.2",
+          "date": "2026-09-06",
+          "localizedDescription": "Margin 1.0.2 fixes a physical-device layout issue with the interactive Liquid Glass bottom navigation.",
+          "downloadURL": "https://github.com/sh4dyl0ve/margin-releases/releases/download/v1.0.2-3/Margin-1.0.2-3.ipa",
+          "size": 6059450,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.1",
           "date": "2026-09-06",
           "localizedDescription": "Margin 1.0.1 adds an interactive Liquid Glass bottom navigation selector with fluid press-and-drag tab switching, native glass transitions and haptic feedback.",
