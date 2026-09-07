@@ -17,8 +17,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "1.0.1",
+          "date": "2026-09-07",
+          "localizedDescription": "Margin 1.0.1 adds an interactive Liquid Glass bottom navigation selector with fluid press-and-drag tab switching, native glass transitions and haptic feedback.",
+          "downloadURL": "https://github.com/sh4dyl0ve/margin-releases/releases/download/v1.0.1-2/Margin-1.0.1-2.ipa",
+          "size": 6061375,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0",
-          "date": "2026-09-06",
+          "date": "2026-09-07",
           "localizedDescription": "Margin 1.0 - first release candidate with PDF/EPUB/DOCX/TXT/RTF reading, highlights and notes, bookmarks, search, OCR support, and durable local persistence.",
           "downloadURL": "https://github.com/sh4dyl0ve/margin-releases/releases/download/v1.0-1/Margin-1.0-1.ipa",
           "size": 6054710,

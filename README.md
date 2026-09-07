@@ -1,6 +1,15 @@
 # Margin Releases
 
-Private SideStore/AltStore distribution for Margin.
+Public SideStore/AltStore distribution for Margin.
+
+## Margin 1.0.1 (2)
+
+- Bundle ID: `com.margin.reader`
+- Minimum OS: iOS 26.0
+- IPA: `Margin-1.0.1-2.ipa`
+- SHA-256: `a7cd224c2144e6bf52e32a943add78d9662e01135cec7fc46669aaac62a89221`
+
+The IPA is published as the `v1.0.1-2` GitHub Release asset, not committed to Git.
 
 ## Margin 1.0 (1)
 
